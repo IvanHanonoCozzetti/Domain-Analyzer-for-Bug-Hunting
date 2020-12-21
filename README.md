@@ -1,7 +1,9 @@
 # Subdomain-Analyzer--Bug-Hunting
 
+Automation tool that allows you to check multiple domains and subdomains status: If the domain is up or not, and/or a response from the domain itself at all.
 
-
+In order to properly run the code, you need to add the .txt file that has the list of domains that you want to analyze + the python script:
+#### python domain_analyzer.py yourlist.txt
 
 
 ### Disclaimer:
