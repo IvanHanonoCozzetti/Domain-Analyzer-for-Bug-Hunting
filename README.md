@@ -1,4 +1,4 @@
-# Subdomain-Analyzer--Bug-Hunting
+# Domain Analyzer For Bug Bounty Hunting
 
 Automation tool that allows you to check multiple domains and subdomains status: If the domain is up or not, and/or a response from the domain itself at all.
 
