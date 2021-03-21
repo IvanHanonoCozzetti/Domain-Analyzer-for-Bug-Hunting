@@ -6,5 +6,5 @@ In order to properly run the code, you need to call the python script + add the 
 #### `python` `domain_analyzer.py` `yourlist.txt`
 
 
-#### Disclaimer:
+### Disclaimer:
 #### All the scripts and instructions in this repository are for educational and informational purposes only, such as Ethical Hacking, Security, Penetration Testing and malware analysis. I do not promote, encourage, support or excite any illegal activity or hacking without written permission in general. <br /> *Special thanks to Cristi Vlad for helping to understand and develop this tool.*
