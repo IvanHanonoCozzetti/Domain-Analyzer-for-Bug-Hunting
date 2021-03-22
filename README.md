@@ -4,7 +4,7 @@ Automation tool that allows you to check multiple domains and subdomains status:
 
 In order to properly run the code, you need to call the python script + add the .txt file that has the list of domains that you want to analyze:
 #### `python` `domain_analyzer.py` `yourlist.txt`
-<img src=".JPG">
+<img src="domain_analyzer.JPG">
 
 
 ### Disclaimer:
